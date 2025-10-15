@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    urlbackend: "https://gesuq-backend.onrender.com"
+    urlbackend: "https://gesuq-back.onrender.com"
 };
 
